@@ -23,7 +23,9 @@
 <h2 align=center>Pre-Requisitos</h2>
 
 As seguintes bibliotecas são necessárias:
-- `pandas`
+- ```
+  PIP INSTALL pandas
+  ```
 
 Também é importante que o python tenha no minimo a versão 3.
 
